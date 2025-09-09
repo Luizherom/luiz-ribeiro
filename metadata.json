@@ -1,0 +1,7 @@
+{
+  "name": "Transcrição de Áudio",
+  "description": "Um aplicativo da web para transcrever e ouvir arquivos de áudio usando a API Gemini. Basta fazer o upload de um áudio, ou gravar diretamente no navegador, e a IA o converterá em texto com precisão.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
